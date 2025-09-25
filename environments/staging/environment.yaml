@@ -8,7 +8,7 @@ app:
   # is not deployed.
   version: "db55398c-9f67-4d34-bb5a-7675a31ff062"
   
-  # Set the Maven coordinates of the Maven artifact to deploy for the 
+  # Set the Maven coordinates of the Maven artifact to deploy for the   
   # "Deploy, and run" scenario.   
   #maven:    
   #  groupId: net.wasdev.wlp.sample
