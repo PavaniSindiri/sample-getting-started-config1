@@ -65,7 +65,7 @@ app:
   # within a subscription.
   endpoints: public
 
-  # Set the Java runtime version for the application. Set to 8 for IBM Java 8,
+  # Set the Java runtime version for the application. Set to 8 for IBM Java 8,   
   # 17 for IBM Semeru 17, or 21 for IBM Semeru 21. If not set, the service
   # tries to automatically detect the Java version for the application. If the
   # service is unable to detect the Java runtime, it defaults to Java 17.
