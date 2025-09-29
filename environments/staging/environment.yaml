@@ -72,7 +72,7 @@ app:
   #java: 17
   
   # Set the name of the custom domain for the application.
-  #host: my_custom_domain.io
+  #host: my_custom_domain.io   
 
   # Set a list of service bindings for the application. The bindings can be
   # provided in two ways: by providing the full crn value of the service 
