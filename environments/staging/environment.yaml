@@ -27,7 +27,7 @@ app:
     min: 1
     
     # The maximum number of instances. Cannot be less than the min value. 
-    # Defaults to the min value if not set.
+    # Defaults to the min value if not set.   
     max: 1
     
   # Configure vCPU and indirectly memory resources for the application. 
