@@ -81,9 +81,9 @@ app:
   # can change and might not be unique.   
   services:
   # - awsEndpointService: "com.amazonaws.vpce.us-east-1.vpce-svc-0b45e222d19c556ef"
-    amazonCloudWatch1:
-      arn: arn:aws:iam::282782922504:role/MCSP_T_G_SSRE_easej_serviceRole_clodwatchCrossAccount_mayank_Test3009202367
-      logGroup: myLogGroupMayankSep25_Test_6_7
+    # amazonCloudWatch1:
+    #   arn: arn:aws:iam::282782922504:role/MCSP_T_G_SSRE_easej_serviceRole_clodwatchCrossAccount_mayank_Test3009202367
+    #   logGroup: myLogGroupMayankSep25_Test_6_7
         # region: us-east-1
   #- name: "my Db2 instance"
   #  type: dashdb-for-transactions
